@@ -61,4 +61,10 @@ body {
                 background-color: #ccc;
                 color: #fff; }
 
+@media (max-width: 1024px) {
+  body .board .column-container {
+    position: relative; }
+    body .board .column-container .column {
+      width: 90%; } }
+
 /*# sourceMappingURL=style.css.map */
