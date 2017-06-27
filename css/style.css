@@ -41,23 +41,23 @@ body {
         body .board .column-container .column .column-title {
           font-size: 20px;
           margin-top: 10px; }
-        body .board .column-container .column .column-card-list {
+        body .board .column-container .column .card-list {
           min-height: 100px;
           padding-left: 0;
           list-style: none; }
-          body .board .column-container .column .column-card-list .card {
+          body .board .column-container .column .card-list .card {
             background-color: #fff;
             border-radius: 5px;
             list-style: none;
             padding: 15px;
             margin: 15px 0;
             border-bottom: solid 2px #bdc3c7; }
-            body .board .column-container .column .column-card-list .card .btn-delete {
+            body .board .column-container .column .card-list .card .btn-delete {
               float: right;
               border: 0;
               border-radius: 5px;
               background-color: transparent; }
-              body .board .column-container .column .column-card-list .card .btn-delete:hover {
+              body .board .column-container .column .card-list .card .btn-delete:hover {
                 background-color: #ccc;
                 color: #fff; }
 
